@@ -1,5 +1,7 @@
 # sample-oauth2-spring-gson
 
+This project is for the only purpose of replicating this issue: https://github.com/spring-projects/spring-security-oauth/issues/1143
+
 ## Get token
 
 Run the app:
